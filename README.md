@@ -6,4 +6,4 @@ This app uses:
 
 To read and write from external storage/file you need to add these two lines in your manifest:
   - uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" 
-  - <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  - uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
